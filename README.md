@@ -8,9 +8,7 @@ FTP Instructions:
 
 2. Copy the files from this repository to /wp-content/uploads/espresso/gateways/myvirtualmerchant
 
-3. You can activate the MyVirtualMerchant gateway by logging into your WP admin then go to Event Espresso > Payment Settings
-
-Git Instuctions:
+Git Instructions:
 
 1. SSH into your server 
 
@@ -20,7 +18,13 @@ Git Instuctions:
 
 `git clone git@github.com:eventespresso/ee3-my-virtual-merchant-gateway.git` 
 
-4. You can activate the MyVirtualMerchant gateway by logging into your WP admin then go to Event Espresso > Payment Settings
+Activation Instructions
+
+1. Log into your WP admin then go to Event Espresso > Payment Settings
+
+2. You can activate the MyVirtualMerchant gateway by clicking on the MyVirtualMerchant Settings tab, then click Activate
+
+3. You input your account information into the form fields and click Update
 
 More information here:
 
