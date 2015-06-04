@@ -16,7 +16,9 @@ Git Instuctions:
 
 2. Navigate (cd) to /wp-content/uploads/espresso/gateways/
 
-3. Clone the remote repository with the following command: `git clone git@github.com:eventespresso/ee3-my-virtual-merchant-gateway.git` 
+3. Clone the remote repository with the following command: 
+
+`git clone git@github.com:eventespresso/ee3-my-virtual-merchant-gateway.git` 
 
 4. You can activate the MyVirtualMerchant gateway by logging into your WP admin then go to Event Espresso > Payment Settings
 
